@@ -10,7 +10,7 @@ As part of our Object Oriented Programming course, we were recommended to create
 
 ### Description
 
-Tank Trouble is a 2 player game where each player aims to shoot the opponent's tank without getting shot themselves.  You each navigate round a procedrually generated maze, firing up to 5 bullets at a time - which can bounce off walls, so watch out round corners!  Be warned, you can shoot yourself too, so take care!  Bullets will expire 15s after being fired, so be careful not to use all your bullets too quickly.  
+Tank Trouble is a 2 player game where each player aims to shoot the opponent's tank without getting shot themselves.  You each navigate round a procedurally generated maze, firing up to 5 bullets at a time - which can bounce off walls, so watch out round corners!  Be warned, you can shoot yourself too, so take care!  Bullets will expire 15s after being fired, so be careful not to use all your bullets too quickly.  
 
 ***
 
